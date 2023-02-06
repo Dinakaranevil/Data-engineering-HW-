@@ -35,8 +35,12 @@ ans :88605
 
 
 ### Question 5 
+Run: prefect cloud login -k MY_PREFECT_API_KEY 
+     prefect block register -m prefect_gcp 
+     prefect deployment build flows/etl_web_to_gcs.py:etl_parent_flow -n cloud_flow_deployment -sb github/git --apply 
+     prefect agent start --work-queue "default" 
 
-
+ans : 514392
 
 
 ### Question 6 Secrets
