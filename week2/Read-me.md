@@ -16,4 +16,33 @@ q2:Using the flow in etl_web_to_gcs.py, create a deployment to run on the first 
 
 ans: 0 5 1 * *
 
-```
+
+![Screenshot from 2023-02-06 16-33-29](https://user-images.githubusercontent.com/48046561/216955603-4eb9b832-980b-4435-81c7-ecc48f4b34f2.png)
+
+### Question 3 .Loading data to BigQuery [script for this](https://github.com/Dinakaranevil/Data-engineering-HW-/blob/main/week2/parameterised_etl_gcs_to_bq.py) 
+
+
+ans :14,851,920
+
+
+![Screenshot from 2023-02-06 14-16-10](https://user-images.githubusercontent.com/48046561/216956637-d85ac56e-4d88-4ce9-85f0-dc195b376778.png)
+
+### Question 4 Github Storage Block[script for this](https://github.com/Dinakaranevil/Data-engineering-HW-/blob/main/week2/github.py)
+
+ans :88605
+
+![Screenshot from 2023-02-06 16-45-35](https://user-images.githubusercontent.com/48046561/216957998-cf1f3382-9db2-4fbe-98f6-31966a261f87.png)
+
+
+### Question 5 
+
+
+
+
+### Question 6 Secrets
+![Screenshot from 2023-02-06 16-48-22](https://user-images.githubusercontent.com/48046561/216958434-545743d6-36a7-46c1-9e3a-d362bf359601.png)
+ans : 8
+
+
+
+
